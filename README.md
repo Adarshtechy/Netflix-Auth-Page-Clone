@@ -4,23 +4,18 @@ A clean and responsive **Netflix-style Login & Signup UI**, handcrafted using **
 This project focuses on designing a user-friendly authentication interface that resembles the Netflix login experience.
 
 ## 📁 Project Structure
+```
 Netflix-Auth-Page-Clone/
 │
 ├── login.html
-
 ├── signup.html
-
 ├── loginstyle.css
-
 ├── signupstyle.css
-
 ├── images/
-
 │ ├── netflix-logo.png
-
 │ ├── login-screen.jpg
-
 │ └── signup-screen.jpg
+```
 
 ## ✨ Features
 

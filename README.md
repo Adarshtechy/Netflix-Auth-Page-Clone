@@ -1,11 +1,11 @@
-## 🎥 Netflix Authentication Page UI Clone
+## 🎥 Netflix Authentication Page Clone
 
 A clean and responsive **Netflix-style Login & Signup UI**, handcrafted using **HTML5** and **CSS3**.  
 This project focuses on designing a user-friendly authentication interface that resembles the Netflix login experience.
 
 ## 📁 Project Structure
 ```
-Netflix-Auth-Page-Clone/
+NetflixAuthPageClone/
 │
 ├── login.html
 ├── signup.html
@@ -39,7 +39,7 @@ No frameworks or libraries — pure front-end web technologies.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Adarshtechy/Netflix-Auth-Page-Clone.git
+   git clone https://github.com/Adarshtechy/NetflixAuthPageClone.git
    ```
 2. Open login.html or signup.html in any browser to view the pages.
 3. Customize styles and assets as needed.
